@@ -15,6 +15,7 @@
 
 ### 🛠️ Technical Skills
 **Programming Languages:** C, C++, Java, C#, JavaScript
+
 **Mobile Development:** Flutter (Dart), Native Android (Java)  
 **Database:** MySQL, SQLite, Hive  
 **Web & Tools:** HTML, CSS, Git, GitHub, Node JS, Express JS, React JS
