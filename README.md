@@ -6,7 +6,7 @@
 
 ### 🧑‍🎓 About Me
 🎓 **B.Sc. in Computer Science and Engineering (CSE)** at *IUBAT, Dhaka* — CGPA: **3.79**  
-💡 Passionate about **Mobile App Development**, **Cross-platform Solutions**, and **Problem Solving**  
+💡 Passionate about **Mobile App Development**, **Cross-platform Solutions**, **Full Stack Development** and **Problem Solving**  
 🌱 Currently learning **Node.js** and **Full-Stack Development**  
 💬 Ask me about **Flutter**, **Dart**, **Java**, and **App Architecture**  
 📫 Reach me at: **emonmahmud.cse@gmail.com**
