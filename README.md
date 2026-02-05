@@ -7,8 +7,8 @@
 ### 🧑‍🎓 About Me
 🎓 **B.Sc. in Computer Science and Engineering (CSE)** at *IUBAT, Dhaka* — CGPA: **3.79**  
 💡 Passionate about **Mobile App Development**, **Cross-platform Solutions**, **Full Stack Development** and **Problem Solving**  
-🌱 Currently learning **Node.js** and **Full-Stack Development**  
-💬 Ask me about **Flutter**, **Dart**, **Java**, and **App Architecture**  
+🌱 Currently learning **Next JS** 
+💬 Ask me about **Flutter**, **Dart**, **Java**, **Java Script** and **App Architecture**  
 📫 Reach me at: **emonmahmud.cse@gmail.com**
 
 ---
@@ -18,9 +18,9 @@
 
 **Mobile Development:** Flutter (Dart), Native Android (Java)  
 
-**Database:** MySQL, SQLite, Hive  
+**Database:** MySQL, SQLite, Hive, MongoDB
 
-**Web & Tools:** HTML, CSS, Git, GitHub, Node JS, Express JS, React JS
+**Web & Tools:** HTML, CSS, Git, GitHub, Node JS, Express JS, React JS, Next Js
 
 **Core Strengths:** OOP, DSA, UI/UX Design, Debugging  
 
